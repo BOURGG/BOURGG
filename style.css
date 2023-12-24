@@ -67,7 +67,7 @@ a, img, .overlay, input, textarea, .plan-wrap p, .filters .filter {
 body {
   font-size: 1em;
   line-height: 1.7em;
-  color: #777777;
+  color: #010101;
   font-weight: normal;
 }
 
@@ -173,12 +173,12 @@ blockquote p {
   -webkit-border-radius: 30px;
      -moz-border-radius: 30px;
           border-radius: 30px;
-  background:#1abc9c;
+  background:#001a6b;
 }
 
 .btn:hover, .btn:focus, .btn-current {
   color: #fff;
-  background: #16a085;
+  background: #1676a0;
 }
 
 .btn:hover, .social-set a:hover, .team-social a i:hover, .header-carousel .owl-buttons .owl-prev:hover, .header-carousel .owl-buttons .owl-next:hover {
