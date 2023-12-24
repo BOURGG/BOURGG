@@ -24,8 +24,8 @@
 
 
 [Color codes]
-Green #1abc9c
-Dark Blue #16a085
+Green #000000
+Dark Blue #082b3b
 Grey #ECF0F1
 
 */
@@ -49,11 +49,11 @@ Grey #ECF0F1
 }
 
 a {
-  color:#1abc9c;
+  color:#082b3b;
 }
 
 a:hover {
-  color: #16a085;
+  color: #000000;
 }
 
 a, img, .overlay, input, textarea, .plan-wrap p, .filters .filter {
@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6, .navigation a, .btn, .filters .filter {
 h1,h2,h3,h4,h5,h6 {
   position: relative;
   margin: 1em 0 1.4em;
-  color: #484f58;
+  color: #000000;
 }
 
 h1,h2 {
