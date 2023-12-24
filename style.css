@@ -981,7 +981,7 @@ blockquote p {
   font-weight: 300;
   margin: 0;
   padding: .6em 0;
-  color:#1abc9c;
+  color:#082b3b;
 }
 
 .plan-wrap .title h2.best-plan-title {
@@ -1008,7 +1008,7 @@ blockquote p {
   height: 120px;
   margin: 1.5em auto;
   color:#1abc9c;
-  border: 2px solid#1abc9c;
+  border: 2px solid#082b3b;
 /*border-radius*/
   -webkit-border-radius: 60px;
      -moz-border-radius: 60px;
@@ -1105,74 +1105,6 @@ blockquote p {
  Map, Contact & Comment Forms
 ********************************************************* */
 
-.map {
-  width: 100%;
-  height: 700px;
-  overflow: hidden;
-}
-
-#google-container {
-  position: relative;
-  width: 100%;
-  height: 500px;
-  background-color: #e7eaf0;
-}
-
-#cd-google-map {
-  position: relative;
-}
-
-#cd-zoom-in, #cd-zoom-out {
-  height: 32px;
-  width: 32px;
-  cursor: pointer;
-  margin-left: 60px;
-  background-color: #2C2D31;
-  background-repeat: no-repeat;
-  background-size: 32px 64px;
-  background-image: url("images/cd-icon-controller.svg");
-}
-
-#cd-zoom-in:hover, #cd-zoom-out:hover {
-  background-color: #1abc9c;
-}
-
-#cd-zoom-in {
-  border-radius: 32px 32px 0 0;
-  margin-top: 150px;
-  background-position: 50% 0;
-}
-
-#cd-zoom-out {
-  border-radius: 0 0 32px 32px;
-  background-position: 50% -32px;
-}
-
-#cd-rubberBand-in, #cd-rubberBand-out {
-  height: 32px;
-  width: 32px;
-  cursor: pointer;
-  margin-left: 60px;
-  background-color: #2C2D31;
-  background-repeat: no-repeat;
-  background-size: 32px 64px;
-  background-image: url("s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-controller.svg");
-}
-
-#cd-rubberBand-in:hover, #cd-rubberBand-out:hover {
-  background-color: #1abc9c;
-}
-
-#cd-rubberBand-in {
-  border-radius: 32px 32px 0 0;
-  margin-top: 150px;
-  background-position: 50% 0;
-}
-
-#cd-rubberBand-out {
-  border-radius: 0 0 32px 32px;
-  background-position: 50% -32px;
-}
 
 .contact {
   padding-top: 0;
